@@ -16,7 +16,7 @@ Process Failures: Significant recalls were linked to "GMP Failures," showing gap
 
 ### 1. The "What": Risk Categorization
 **Finding:** Labeling errors (Undeclared Allergens) are the leading cause of recalls, outpacing biological pathogens.
-![Risk Categories](fda_recall_graph.png)
+![Risk Categories]()
 
 ---
 
